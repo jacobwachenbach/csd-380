@@ -1,2 +1,5 @@
-# csd-380
-csd-380 Class
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Sue Sampson
+- Student: Jacob Achenbach
